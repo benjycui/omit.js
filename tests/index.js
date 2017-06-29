@@ -1,7 +1,5 @@
-'use strict';
-
-const assert = require('assert');
-const omit = require('../');
+import assert from 'assert';
+import omit from '../src';
 
 describe('omit', function() {
   it('should create a shallow copy', function() {
