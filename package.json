@@ -1,6 +1,6 @@
 {
   "name": "omit.js",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Utility function to create a shallow copy of an object which had dropped some fields.",
   "main": "lib/index.js",
   "module": "es/index.js",
