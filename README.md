@@ -15,7 +15,7 @@ npm i --save omit.js
 
 ```js
 var omit = require('omit.js');
-omit({ name: 'Benjy', age: 18 }, [ 'name' ]); //{ age: 18 }
+omit({ name: 'Benjy', age: 18 }, [ 'name' ]); // => { age: 18 }
 ```
 
 ## API
