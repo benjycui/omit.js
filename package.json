@@ -4,10 +4,12 @@
   "description": "Utility function to create a shallow copy of an object which had dropped some fields.",
   "main": "lib/index.js",
   "module": "es/index.js",
+  "types": "index.d.ts",
   "files": [
     "lib",
     "es",
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "scripts": {
     "compile": "rc-tools run compile --babel-runtime",
