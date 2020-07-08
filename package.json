@@ -39,6 +39,7 @@
     "@babel/runtime": "^7.10.4"
   },
   "devDependencies": {
+    "@umijs/fabric": "^2.2.2",
     "assert": "^1.4.1",
     "eslint": "^7.4.0",
     "father": "^2.29.5",
