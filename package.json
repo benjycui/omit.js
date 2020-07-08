@@ -35,9 +35,6 @@
     "url": "https://github.com/benjycui/omit.js/issues"
   },
   "homepage": "https://github.com/benjycui/omit.js#readme",
-  "dependencies": {
-    "@babel/runtime": "^7.10.4"
-  },
   "devDependencies": {
     "@umijs/fabric": "^2.2.2",
     "assert": "^1.4.1",

@@ -7,5 +7,4 @@ export default {
     eslint: true,
     prettier: true,
   },
-  runtimeHelpers: true,
 };
