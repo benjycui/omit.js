@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "start": "father doc dev --storybook",
-    "build": "father doc build  --storybook",
+    "build": "father doc build --storybook",
     "compile": "father build",
     "gh-pages": "father doc deploy",
     "prepublishOnly": "npm run compile && np --yolo --no-publish",
